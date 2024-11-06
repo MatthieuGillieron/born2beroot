@@ -2,7 +2,7 @@
 
 ## Description
 
-**BORN2BEROOT** est un projet de l'[École 42](https://www.42.fr/) axé sur l'administration système sous Linux. L'objectif principal est de configurer une distribution Linux minimaliste, sécurisée et optimisée pour un usage professionnel. Ce projet m'a permis de développer une compréhension approfondie des systèmes d'exploitation, de la gestion des services et de la sécurité informatique.
+**BORN2BEROOT** est un projet de l'École 42 axé sur l'administration système sous Linux. L'objectif principal est de configurer une distribution Linux minimaliste, sécurisée et optimisée pour un usage professionnel. Ce projet m'a permis de développer une compréhension approfondie des systèmes d'exploitation, de la gestion des services et de la sécurité informatique.
 
 ## Ce que j'ai appris
 
